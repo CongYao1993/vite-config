@@ -1,0 +1,19 @@
+{
+  "name": "vite-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CongYao1993/vite-config.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "lodash-es": "^4.17.21"
+  },
+  "devDependencies": {
+    "vite": "^5.3.1"
+  },
+  "type": "module"
+}
